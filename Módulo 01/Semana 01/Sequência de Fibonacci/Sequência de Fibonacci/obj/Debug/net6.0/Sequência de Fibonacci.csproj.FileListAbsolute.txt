@@ -1,0 +1,15 @@
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.AssemblyInfo.cs
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.exe
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.deps.json
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.runtimeconfig.json
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\bin\Debug\net6.0\Sequência de Fibonacci.pdb
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\refint\Sequência de Fibonacci.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.pdb
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\Sequência de Fibonacci.genruntimeconfig.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Sequência de Fibonacci\Sequência de Fibonacci\obj\Debug\net6.0\ref\Sequência de Fibonacci.dll

@@ -1,0 +1,15 @@
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.exe
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.deps.json
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.runtimeconfig.json
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\bin\Debug\net6.0\Buscador de números primos.pdb
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.csproj.AssemblyReference.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.AssemblyInfoInputs.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.AssemblyInfo.cs
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\refint\Buscador de números primos.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.pdb
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\Buscador de números primos.genruntimeconfig.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Buscador de números primos\Buscador de números primos\obj\Debug\net6.0\ref\Buscador de números primos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cálculo de média de aprovação/1.0.0": {
+        "runtime": {
+          "Cálculo de média de aprovação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cálculo de média de aprovação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

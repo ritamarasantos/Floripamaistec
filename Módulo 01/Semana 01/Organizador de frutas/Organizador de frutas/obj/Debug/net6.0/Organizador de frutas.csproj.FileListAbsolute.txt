@@ -1,0 +1,15 @@
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\bin\Debug\net6.0\Organizador de frutas.exe
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\bin\Debug\net6.0\Organizador de frutas.deps.json
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\bin\Debug\net6.0\Organizador de frutas.runtimeconfig.json
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\bin\Debug\net6.0\Organizador de frutas.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\bin\Debug\net6.0\Organizador de frutas.pdb
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.csproj.AssemblyReference.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.AssemblyInfoInputs.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.AssemblyInfo.cs
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\refint\Organizador de frutas.dll
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.pdb
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\Organizador de frutas.genruntimeconfig.cache
+C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 01\Organizador de frutas\Organizador de frutas\obj\Debug\net6.0\ref\Organizador de frutas.dll
