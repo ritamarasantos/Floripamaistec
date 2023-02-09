@@ -1,3 +1,3 @@
 # Floripamaistec
-Repositório com todos os códigos desenvolvidos durante o curso Floripa mais tec - FullStack
+Repositório com todos os códigos desenvolvidos durante o curso Floripamaistec - FullStack
 
