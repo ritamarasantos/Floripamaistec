@@ -10,3 +10,15 @@ public class ContaBancaria
     public decimal saldo = 0;
     public TipoContaEnum tipoConta;
 }
+
+//[M1S02] Ex 4 - Crie um método para depositar valores//
+
+public void Depositar(decimal valor)
+{
+    if(valor <= 0)
+    {
+        console.WriteLine("O valor precisa ser maior que 0!");
+    }
+}
+
+
