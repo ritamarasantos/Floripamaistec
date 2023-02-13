@@ -19,6 +19,12 @@ public void Depositar(decimal valor)
     {
         console.WriteLine("O valor precisa ser maior que 0!");
     }
+    else if(valor > saldo)
+    {
+        console.writeline("O valor é maior que o saldo atual!");
+    }
+
+    
 }
 
 
