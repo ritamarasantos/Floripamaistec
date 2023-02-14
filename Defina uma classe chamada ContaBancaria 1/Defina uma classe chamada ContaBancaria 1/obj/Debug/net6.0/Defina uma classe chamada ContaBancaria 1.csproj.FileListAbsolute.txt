@@ -1,2 +1,0 @@
-C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 02\Defina uma classe chamada ContaBancaria 1\Defina uma classe chamada ContaBancaria 1\obj\Debug\net6.0\Defina uma classe chamada ContaBancaria 1.csproj.AssemblyReference.cache
-C:\Users\computer\Desktop\Exercicios FullStack\Floripamaistec\Módulo 01\Semana 02\Defina uma classe chamada ContaBancaria 1\Defina uma classe chamada ContaBancaria 1\obj\Debug\net6.0\Defina uma classe chamada ContaBancaria 1.GeneratedMSBuildEditorConfig.editorconfig
